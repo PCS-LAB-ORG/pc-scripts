@@ -18,9 +18,9 @@ Authenticate against Prisma cloud. Return authentication JWT token
 """
 def auth_prisma():
     global api
-    api = os.getenv('PRISMA_API_URL')
-    username = os.getenv('PRISMA_ACCESS_KEY_ID')
-    password = os.getenv('PRISMA_SECRET_KEY')
+    api = os.getenv('PRISMA_API_URL', 'https://api2.prismacloud.io')
+    username = os.getenv('PRISMA_ACCESS_KEY_ID', '91fd0874-f50a-4310-8900-11eacfff5224')
+    password = os.getenv('PRISMA_SECRET_KEY', 'QWDX5TkRX0XMWVwL6T+93oWGvCs=')
     if ( api is None or username is None or password is None):
         print('Missing environment variables')
         sys.exit(1)
@@ -54,10 +54,17 @@ Retrieve CAS Repositoires Raw Meta Data
 def get_cas_repo_metadata():
     token = auth_prisma()
     headers = create_headers(token)
+    payload = {
+    "filters": {
+        "archived": [
+            "true"
+        ]
+    }
+}
 
-    # Get all build policies
-    result = req.get(f"{api}/bridgecrew/api/v1/vcs-repository/repositories", headers=headers)
-    result_ok(result,'Could not get build policies.')
+    # Get all metadata
+    result = req.post(f"{api}/bridgecrew/api/v1/vcs-repository/repositories", headers=headers, data=json.dumps(payload))
+    result_ok(result,'Could not get metadata.')
 
     raw_metadata = result.json()
     print('Writing metadata.json')
