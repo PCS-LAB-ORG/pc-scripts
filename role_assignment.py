@@ -3,10 +3,10 @@ import os
 import sys
 import requests as req
 
-api = os.getenv('PRISMA_API_URL', "https://api2.prismacloud.io")
+api = os.getenv('PRISMA_API_URL')
 username = os.getenv('PRISMA_ACCESS_KEY_ID')
 password = os.getenv('PRISMA_SECRET_KEY')
-role = os.getenv('PRISMA_ROLE', "super-developer")
+role = os.getenv('PRISMA_ROLE')
 
 if api is None or username is None or password is None:
     print('Missing environment variables')
@@ -67,11 +67,12 @@ def get_repos():
 def get_role_id(role):
     try:
         data = make_request("GET", "user/role")
-        print(role)
-
         for item in data.json():
             if item.get('name') == role:
-                return item.get('id')
+                return {
+                    "id": item.get('id'),
+                    "roleType": item.get('roleType')
+                }
         # If 'specified role' not found, return None
         return None
     except Exception as e:
@@ -83,8 +84,8 @@ def assign_repos():
     try:
         role_id = get_role_id(role)
         repos_id = get_repos()
-        payload = {"roleType": "Developer", "codeRepositoryIds": repos_id}
-        result = make_request("PUT", f"user/role/{role_id}", payload)
+        payload = {"roleType": role_id['roleType'], "codeRepositoryIds": repos_id}
+        result = make_request("PUT", f"user/role/{role_id['id']}", payload)
         return result
     except Exception as e:
         print(f"Error: {e}")
