@@ -80,11 +80,17 @@ def get_role_id(role):
         sys.exit(1)
 
 
+
 def assign_repos():
     try:
         role_id = get_role_id(role)
         repos_id = get_repos()
-        payload = {"roleType": role_id['roleType'], "codeRepositoryIds": repos_id}
+        payload = {
+            "accountGroupIds": [],
+            "resourceListIds": [],
+            "roleType": role_id['roleType'], 
+            "codeRepositoryIds": repos_id
+            }
         result = make_request("PUT", f"user/role/{role_id['id']}", payload)
         return result
     except Exception as e:
