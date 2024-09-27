@@ -15,7 +15,7 @@ Welcome to the **Integrate Multiple Repositories tool**. This tool automates the
   - [🌍 Environment Variables](#environment-variables)
   - [📝 Input File](#input-file)
 - [⚙️ Commands](#-commands)
-  - [`update_tag_rule()`](#update_integration)
+  - [`update_integration`](#update_integration)
 - [💡 Troubleshooting](#-troubleshooting)
 - [📊 Example Use Case](#-example-use-case)
 
