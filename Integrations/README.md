@@ -1,7 +1,7 @@
 
 ---
 
-# RIntegrate Multiple Repositories
+# Integrate Multiple Repositories
 
 Welcome to the **Integrate Multiple Repositories tool**. This tool automates the process of onboarding multiple repositories using the Prisma API. It's designed to be simple, efficient, and user-friendly.
 
