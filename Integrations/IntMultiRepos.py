@@ -8,9 +8,6 @@ username = os.getenv('PRISMA_ACCESS_KEY_ID')
 password = os.getenv('PRISMA_SECRET_KEY')
 intId = os.getenv('PRISMA_INT_ID')
 
-if api is None or username is None or password is None:
-    print('Missing environment variables')
-    sys.exit(1)
 
 class Colors:
     RED = '\033[91m'
@@ -21,6 +18,11 @@ class Colors:
 
 def color_print(text, color):
     print(color + text + Colors.END)
+    
+if api is None or username is None or password is None:
+    color_print("🚨 Attention: It seems some environment variables are missing! Please verify your configuration and try again. 🧐", Colors.YELLOW)
+    sys.exit(1)
+
 
 def authenticate():
     try:
