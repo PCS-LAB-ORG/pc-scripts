@@ -3,7 +3,7 @@ import os
 import sys
 import requests as req
 
-api = os.getenv('PRISMA_API_URL', 'https://api2.prismacloud.io')
+api = os.getenv('PRISMA_API_URL')
 username = os.getenv('PRISMA_ACCESS_KEY_ID')
 password = os.getenv('PRISMA_SECRET_KEY')
 intId = os.getenv('PRISMA_INT_ID')
@@ -75,12 +75,12 @@ def update_integration():
         for i, repo in enumerate(repositories, start=1):
             print(f"   {i}. {repo}")
         payload = {
-        "id": intId,
-        "data": repositories    
+        "integrationId": intId,
+        "repositoriesNames": repositories    
         } 
         color_print(f"\n🚀 Sending payload to onboard {len(repositories)} repositories...", Colors.GREEN) 
-        response = make_request("POST", f"code/api/v1/repositories", payload)
-        if response.status_code == 200:
+        response = make_request("POST", f"code/api/v2/repositories", payload)
+        if response.status_code == 202:
             color_print("✅ Integration updated successfully!", Colors.GREEN)
         return response
     except FileNotFoundError:
