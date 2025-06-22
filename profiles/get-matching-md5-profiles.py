@@ -142,7 +142,7 @@ try:
     print("Fetching initial batch of incidents...")
     res = cwp_session.request(
         'GET',
-        f'/api/v1/audits/incidents?acknowledged=false&category=suspiciousBinary&from={from_date}&limit={limit}&offset={offset}&to={to_date}&type=container'
+        f'/api/v1/audits/incidents?acknowledged=false&category=suspiciousBinary&from={from_date}&limit={limit}&offset={offset}&to={to_date}&type=host'
     )
     total_count = int(res.headers.get("Total-Count", 0))
     print(f"Total incidents to fetch: {total_count}")
@@ -152,7 +152,7 @@ try:
         try:
             res = cwp_session.request(
                 'GET',
-                f'/api/v1/audits/incidents?acknowledged=false&category=suspiciousBinary&from={from_date}&limit={limit}&offset={offset}&to={to_date}&type=container'
+                f'/api/v1/audits/incidents?acknowledged=false&category=suspiciousBinary&from={from_date}&limit={limit}&offset={offset}&to={to_date}&type=host'
             )
             res.raise_for_status()
             batch = res.json()
