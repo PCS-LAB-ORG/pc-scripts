@@ -2,24 +2,6 @@
   "rules": [
     {
       "_id": "",
-      "package": "@ampproject/remapping",
-      "type": "nodejs",
-      "minVersionInclusive": "1.0.1",
-      "name": "@ampproject/remapping_1.0.1",
-      "maxVersionInclusive": "1.0.1",
-      "md5": ""
-    },
-    {
-      "_id": "",
-      "package": "@angular-devkit/architect",
-      "type": "nodejs",
-      "minVersionInclusive": "0.1300.4",
-      "name": "@angular-devkit/architect_0.1300.4",
-      "maxVersionInclusive": "0.1300.4",
-      "md5": ""
-    },
-    {
-      "_id": "",
       "package": "angulartics2",
       "type": "nodejs",
       "minVersionInclusive": "14.1.2",
