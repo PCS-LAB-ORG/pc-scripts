@@ -1,0 +1,5053 @@
+{
+  "rules": [
+    {
+      "_id": "",
+      "package": "@ampproject/remapping",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.1",
+      "name": "@ampproject/remapping_1.0.1",
+      "maxVersionInclusive": "1.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@angular-devkit/architect",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1300.4",
+      "name": "@angular-devkit/architect_0.1300.4",
+      "maxVersionInclusive": "0.1300.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "angulartics2",
+      "type": "nodejs",
+      "minVersionInclusive": "14.1.2",
+      "name": "npm_angulartics2_14.1.2",
+      "maxVersionInclusive": "14.1.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/deluge",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.2",
+      "name": "npm__ctrl/deluge_7.2.2",
+      "maxVersionInclusive": "7.2.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/golang-template",
+      "type": "nodejs",
+      "minVersionInclusive": "1.4.3",
+      "name": "npm__ctrl/golang-template_1.4.3",
+      "maxVersionInclusive": "1.4.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/magnet-link",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.4",
+      "name": "npm__ctrl/magnet-link_4.0.4",
+      "maxVersionInclusive": "4.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/ngx-codemirror",
+      "type": "nodejs",
+      "minVersionInclusive": "7.0.2",
+      "name": "npm__ctrl/ngx-codemirror_7.0.2",
+      "maxVersionInclusive": "7.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/ngx-csv",
+      "type": "nodejs",
+      "minVersionInclusive": "6.0.2",
+      "name": "npm__ctrl/ngx-csv_6.0.2",
+      "maxVersionInclusive": "6.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/ngx-emoji-mart",
+      "type": "nodejs",
+      "minVersionInclusive": "9.2.2",
+      "name": "npm__ctrl/ngx-emoji-mart_9.2.2",
+      "maxVersionInclusive": "9.2.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/ngx-rightclick",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.2",
+      "name": "npm__ctrl/ngx-rightclick_4.0.2",
+      "maxVersionInclusive": "4.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/qbittorrent",
+      "type": "nodejs",
+      "minVersionInclusive": "9.7.2",
+      "name": "npm__ctrl/qbittorrent_9.7.2",
+      "maxVersionInclusive": "9.7.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/react-adsense",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.2",
+      "name": "npm__ctrl/react-adsense_2.0.2",
+      "maxVersionInclusive": "2.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/shared-torrent",
+      "type": "nodejs",
+      "minVersionInclusive": "6.3.2",
+      "name": "npm__ctrl/shared-torrent_6.3.2",
+      "maxVersionInclusive": "6.3.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/tinycolor",
+      "type": "nodejs",
+      "minVersionInclusive": "4.1.1",
+      "name": "npm__ctrl/tinycolor_4.1.1",
+      "maxVersionInclusive": "4.1.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@4.1.2",
+      "type": "nodejs",
+      "minVersionInclusive": "4.1.2",
+      "name": "npm__4.1.2_4.1.2",
+      "maxVersionInclusive": "4.1.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/torrent-file",
+      "type": "nodejs",
+      "minVersionInclusive": "4.1.2",
+      "name": "npm__ctrl/torrent-file_4.1.2",
+      "maxVersionInclusive": "4.1.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/transmission",
+      "type": "nodejs",
+      "minVersionInclusive": "7.3.1",
+      "name": "npm__ctrl/transmission_7.3.1",
+      "maxVersionInclusive": "7.3.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/ts-base32",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.2",
+      "name": "npm__ctrl/ts-base32_4.0.2",
+      "maxVersionInclusive": "4.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "encounter-playground",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.5",
+      "name": "npm_encounter-playground_0.0.5",
+      "maxVersionInclusive": "0.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "json-rules-engine-simplified",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.4",
+      "name": "npm_json-rules-engine-simplified_0.2.4",
+      "maxVersionInclusive": "0.2.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "0.2.1",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.1",
+      "name": "npm_0.2.1_0.2.1",
+      "maxVersionInclusive": "0.2.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "koa2-swagger-ui",
+      "type": "nodejs",
+      "minVersionInclusive": "5.11.2",
+      "name": "npm_koa2-swagger-ui_5.11.2",
+      "maxVersionInclusive": "5.11.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "5.11.1",
+      "type": "nodejs",
+      "minVersionInclusive": "5.11.1",
+      "name": "npm_5.11.1_5.11.1",
+      "maxVersionInclusive": "5.11.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/gesturehandler",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.35",
+      "name": "npm__nativescript-community/gesturehandler_2.0.35",
+      "maxVersionInclusive": "2.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/sentry",
+      "type": "nodejs",
+      "minVersionInclusive": "nativescript-community/sentry",
+      "name": "npm__nativescript-community/sentry_nativescript-community/sentry",
+      "maxVersionInclusive": "nativescript-community/sentry",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "4.6.43",
+      "type": "nodejs",
+      "minVersionInclusive": "4.6.43",
+      "name": "npm_4.6.43_4.6.43",
+      "maxVersionInclusive": "4.6.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/text",
+      "type": "nodejs",
+      "minVersionInclusive": "1.6.13",
+      "name": "npm__nativescript-community/text_1.6.13",
+      "maxVersionInclusive": "1.6.13",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-collectionview",
+      "type": "nodejs",
+      "minVersionInclusive": "6.0.6",
+      "name": "npm__nativescript-community/ui-collectionview_6.0.6",
+      "maxVersionInclusive": "6.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-drawer",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.30",
+      "name": "npm__nativescript-community/ui-drawer_0.1.30",
+      "maxVersionInclusive": "0.1.30",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-image",
+      "type": "nodejs",
+      "minVersionInclusive": "4.5.6",
+      "name": "npm__nativescript-community/ui-image_4.5.6",
+      "maxVersionInclusive": "4.5.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-bottomsheet",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.72",
+      "name": "npm__nativescript-community/ui-material-bottomsheet_7.2.72",
+      "maxVersionInclusive": "7.2.72",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-core",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.76",
+      "name": "npm__nativescript-community/ui-material-core_7.2.76",
+      "maxVersionInclusive": "7.2.76",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-core-tabs",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.76",
+      "name": "npm__nativescript-community/ui-material-core-tabs_7.2.76",
+      "maxVersionInclusive": "7.2.76",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-color",
+      "type": "nodejs",
+      "minVersionInclusive": "10.0.2",
+      "name": "npm_ngx-color_10.0.2",
+      "maxVersionInclusive": "10.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-toastr",
+      "type": "nodejs",
+      "minVersionInclusive": "19.0.2",
+      "name": "npm_ngx-toastr_19.0.2",
+      "maxVersionInclusive": "19.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-trend",
+      "type": "nodejs",
+      "minVersionInclusive": "8.0.1",
+      "name": "npm_ngx-trend_8.0.1",
+      "maxVersionInclusive": "8.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-complaint-image",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.35",
+      "name": "npm_react-complaint-image_0.0.35",
+      "maxVersionInclusive": "0.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-form-conditionals",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.21",
+      "name": "npm_react-jsonschema-form-conditionals_0.3.21",
+      "maxVersionInclusive": "0.3.21",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-form-extras",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.4",
+      "name": "npm_react-jsonschema-form-extras_1.0.4",
+      "maxVersionInclusive": "1.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-authentication",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.6",
+      "name": "npm_rxnt-authentication_0.0.6",
+      "maxVersionInclusive": "0.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-healthchecks-nestjs",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.5",
+      "name": "npm_rxnt-healthchecks-nestjs_1.0.5",
+      "maxVersionInclusive": "1.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-kue",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.7",
+      "name": "npm_rxnt-kue_1.0.7",
+      "maxVersionInclusive": "1.0.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "swc-plugin-component-annotate",
+      "type": "nodejs",
+      "minVersionInclusive": "1.9.2",
+      "name": "npm_swc-plugin-component-annotate_1.9.2",
+      "maxVersionInclusive": "1.9.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ts-gaussian",
+      "type": "nodejs",
+      "minVersionInclusive": "3.0.6",
+      "name": "npm_ts-gaussian_3.0.6",
+      "maxVersionInclusive": "3.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ahmedhfarag/ngx-perfect-scrollbar",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.20",
+      "name": "npm__ahmedhfarag/ngx-perfect-scrollbar_20.0.20",
+      "maxVersionInclusive": "20.0.20",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ahmedhfarag/ngx-virtual-scroller",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.4",
+      "name": "npm__ahmedhfarag/ngx-virtual-scroller_4.0.4",
+      "maxVersionInclusive": "4.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/common",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.22",
+      "name": "npm__art-ws/common_2.0.22",
+      "maxVersionInclusive": "2.0.22",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/common",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.28",
+      "name": "npm__art-ws/common_2.0.28",
+      "maxVersionInclusive": "2.0.28",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/config-eslint",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.4",
+      "name": "npm__art-ws/config-eslint_2.0.4",
+      "maxVersionInclusive": "2.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/config-eslint",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.5",
+      "name": "npm__art-ws/config-eslint_2.0.5",
+      "maxVersionInclusive": "2.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/config-ts",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.7",
+      "name": "npm__art-ws/config-ts_2.0.7",
+      "maxVersionInclusive": "2.0.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/config-ts",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.8",
+      "name": "npm__art-ws/config-ts_2.0.8",
+      "maxVersionInclusive": "2.0.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/db-context",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.21",
+      "name": "npm__art-ws/db-context_2.0.21",
+      "maxVersionInclusive": "2.0.21",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/db-context",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.24",
+      "name": "npm__art-ws/db-context_2.0.24",
+      "maxVersionInclusive": "2.0.24",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/di",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.28",
+      "name": "npm__art-ws/di_2.0.28",
+      "maxVersionInclusive": "2.0.28",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/di",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.32",
+      "name": "npm__art-ws/di_2.0.32",
+      "maxVersionInclusive": "2.0.32",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/di-node",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.13",
+      "name": "npm__art-ws/di-node_2.0.13",
+      "maxVersionInclusive": "2.0.13",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/eslint",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.5",
+      "name": "npm__art-ws/eslint_1.0.5",
+      "maxVersionInclusive": "1.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/eslint",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.6",
+      "name": "npm__art-ws/eslint_1.0.6",
+      "maxVersionInclusive": "1.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/fastify-http-server",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.24",
+      "name": "npm__art-ws/fastify-http-server_2.0.24",
+      "maxVersionInclusive": "2.0.24",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/fastify-http-server",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.27",
+      "name": "npm__art-ws/fastify-http-server_2.0.27",
+      "maxVersionInclusive": "2.0.27",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/http-server",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.21",
+      "name": "npm__art-ws/http-server_2.0.21",
+      "maxVersionInclusive": "2.0.21",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/http-server",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.25",
+      "name": "npm__art-ws/http-server_2.0.25",
+      "maxVersionInclusive": "2.0.25",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/openapi",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.12",
+      "name": "npm__art-ws/openapi_0.1.12",
+      "maxVersionInclusive": "0.1.12",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/openapi",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.9",
+      "name": "npm__art-ws/openapi_0.1.9",
+      "maxVersionInclusive": "0.1.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/package-base",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.5",
+      "name": "npm__art-ws/package-base_1.0.5",
+      "maxVersionInclusive": "1.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/package-base",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.6",
+      "name": "npm__art-ws/package-base_1.0.6",
+      "maxVersionInclusive": "1.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/prettier",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.5",
+      "name": "npm__art-ws/prettier_1.0.5",
+      "maxVersionInclusive": "1.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/prettier",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.6",
+      "name": "npm__art-ws/prettier_1.0.6",
+      "maxVersionInclusive": "1.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/slf",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.15",
+      "name": "npm__art-ws/slf_2.0.15",
+      "maxVersionInclusive": "2.0.15",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/slf",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.22",
+      "name": "npm__art-ws/slf_2.0.22",
+      "maxVersionInclusive": "2.0.22",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/ssl-info",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.10",
+      "name": "npm__art-ws/ssl-info_1.0.10",
+      "maxVersionInclusive": "1.0.10",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/ssl-info",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.9",
+      "name": "npm__art-ws/ssl-info_1.0.9",
+      "maxVersionInclusive": "1.0.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/web-app",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.3",
+      "name": "npm__art-ws/web-app_1.0.3",
+      "maxVersionInclusive": "1.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@art-ws/web-app",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.4",
+      "name": "npm__art-ws/web-app_1.0.4",
+      "maxVersionInclusive": "1.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@basic-ui-components-stc/basic-ui-components",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.5",
+      "name": "npm__basic-ui-components-stc/basic-ui-components_1.0.5",
+      "maxVersionInclusive": "1.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/commitlint",
+      "type": "nodejs",
+      "minVersionInclusive": "8.1.1",
+      "name": "npm__crowdstrike/commitlint_8.1.1",
+      "maxVersionInclusive": "8.1.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/commitlint",
+      "type": "nodejs",
+      "minVersionInclusive": "8.1.2",
+      "name": "npm__crowdstrike/commitlint_8.1.2",
+      "maxVersionInclusive": "8.1.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/falcon-shoelace",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.1",
+      "name": "npm__crowdstrike/falcon-shoelace_0.4.1",
+      "maxVersionInclusive": "0.4.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/falcon-shoelace",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.2",
+      "name": "npm__crowdstrike/falcon-shoelace_0.4.2",
+      "maxVersionInclusive": "0.4.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/foundry-js",
+      "type": "nodejs",
+      "minVersionInclusive": "0.19.1",
+      "name": "npm__crowdstrike/foundry-js_0.19.1",
+      "maxVersionInclusive": "0.19.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/foundry-js",
+      "type": "nodejs",
+      "minVersionInclusive": "0.19.2",
+      "name": "npm__crowdstrike/foundry-js_0.19.2",
+      "maxVersionInclusive": "0.19.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/glide-core",
+      "type": "nodejs",
+      "minVersionInclusive": "0.34.2",
+      "name": "npm__crowdstrike/glide-core_0.34.2",
+      "maxVersionInclusive": "0.34.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/glide-core",
+      "type": "nodejs",
+      "minVersionInclusive": "0.34.3",
+      "name": "npm__crowdstrike/glide-core_0.34.3",
+      "maxVersionInclusive": "0.34.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/logscale-dashboard",
+      "type": "nodejs",
+      "minVersionInclusive": "1.205.1",
+      "name": "npm__crowdstrike/logscale-dashboard_1.205.1",
+      "maxVersionInclusive": "1.205.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/logscale-dashboard",
+      "type": "nodejs",
+      "minVersionInclusive": "1.205.2",
+      "name": "npm__crowdstrike/logscale-dashboard_1.205.2",
+      "maxVersionInclusive": "1.205.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/logscale-file-editor",
+      "type": "nodejs",
+      "minVersionInclusive": "1.205.1",
+      "name": "npm__crowdstrike/logscale-file-editor_1.205.1",
+      "maxVersionInclusive": "1.205.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/logscale-file-editor",
+      "type": "nodejs",
+      "minVersionInclusive": "1.205.2",
+      "name": "npm__crowdstrike/logscale-file-editor_1.205.2",
+      "maxVersionInclusive": "1.205.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/logscale-parser-edit",
+      "type": "nodejs",
+      "minVersionInclusive": "1.205.1",
+      "name": "npm__crowdstrike/logscale-parser-edit_1.205.1",
+      "maxVersionInclusive": "1.205.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/logscale-parser-edit",
+      "type": "nodejs",
+      "minVersionInclusive": "1.205.2",
+      "name": "npm__crowdstrike/logscale-parser-edit_1.205.2",
+      "maxVersionInclusive": "1.205.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/logscale-search",
+      "type": "nodejs",
+      "minVersionInclusive": "1.205.1",
+      "name": "npm__crowdstrike/logscale-search_1.205.1",
+      "maxVersionInclusive": "1.205.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/logscale-search",
+      "type": "nodejs",
+      "minVersionInclusive": "1.205.2",
+      "name": "npm__crowdstrike/logscale-search_1.205.2",
+      "maxVersionInclusive": "1.205.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/tailwind-toucan-base",
+      "type": "nodejs",
+      "minVersionInclusive": "5.0.1",
+      "name": "npm__crowdstrike/tailwind-toucan-base_5.0.1",
+      "maxVersionInclusive": "5.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@crowdstrike/tailwind-toucan-base",
+      "type": "nodejs",
+      "minVersionInclusive": "5.0.2",
+      "name": "npm__crowdstrike/tailwind-toucan-base_5.0.2",
+      "maxVersionInclusive": "5.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/deluge",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.1",
+      "name": "npm__ctrl/deluge_7.2.1",
+      "maxVersionInclusive": "7.2.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/golang-template",
+      "type": "nodejs",
+      "minVersionInclusive": "1.4.2",
+      "name": "npm__ctrl/golang-template_1.4.2",
+      "maxVersionInclusive": "1.4.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/magnet-link",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.3",
+      "name": "npm__ctrl/magnet-link_4.0.3",
+      "maxVersionInclusive": "4.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/ngx-codemirror",
+      "type": "nodejs",
+      "minVersionInclusive": "7.0.1",
+      "name": "npm__ctrl/ngx-codemirror_7.0.1",
+      "maxVersionInclusive": "7.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/ngx-csv",
+      "type": "nodejs",
+      "minVersionInclusive": "6.0.1",
+      "name": "npm__ctrl/ngx-csv_6.0.1",
+      "maxVersionInclusive": "6.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/ngx-emoji-mart",
+      "type": "nodejs",
+      "minVersionInclusive": "9.2.1",
+      "name": "npm__ctrl/ngx-emoji-mart_9.2.1",
+      "maxVersionInclusive": "9.2.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/ngx-rightclick",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.1",
+      "name": "npm__ctrl/ngx-rightclick_4.0.1",
+      "maxVersionInclusive": "4.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/qbittorrent",
+      "type": "nodejs",
+      "minVersionInclusive": "9.7.1",
+      "name": "npm__ctrl/qbittorrent_9.7.1",
+      "maxVersionInclusive": "9.7.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/react-adsense",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.1",
+      "name": "npm__ctrl/react-adsense_2.0.1",
+      "maxVersionInclusive": "2.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/shared-torrent",
+      "type": "nodejs",
+      "minVersionInclusive": "6.3.1",
+      "name": "npm__ctrl/shared-torrent_6.3.1",
+      "maxVersionInclusive": "6.3.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/tinycolor",
+      "type": "nodejs",
+      "minVersionInclusive": "4.1.1",
+      "name": "npm__ctrl/tinycolor_4.1.1",
+      "maxVersionInclusive": "4.1.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/tinycolor",
+      "type": "nodejs",
+      "minVersionInclusive": "4.1.2",
+      "name": "npm__ctrl/tinycolor_4.1.2",
+      "maxVersionInclusive": "4.1.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/torrent-file",
+      "type": "nodejs",
+      "minVersionInclusive": "4.1.1",
+      "name": "npm__ctrl/torrent-file_4.1.1",
+      "maxVersionInclusive": "4.1.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ctrl/ts-base32",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.1",
+      "name": "npm__ctrl/ts-base32_4.0.1",
+      "maxVersionInclusive": "4.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@hestjs/core",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.1",
+      "name": "npm__hestjs/core_0.2.1",
+      "maxVersionInclusive": "0.2.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@hestjs/cqrs",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.6",
+      "name": "npm__hestjs/cqrs_0.1.6",
+      "maxVersionInclusive": "0.1.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@hestjs/demo",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.2",
+      "name": "npm__hestjs/demo_0.1.2",
+      "maxVersionInclusive": "0.1.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@hestjs/eslint-config",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.2",
+      "name": "npm__hestjs/eslint-config_0.1.2",
+      "maxVersionInclusive": "0.1.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@hestjs/logger",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.6",
+      "name": "npm__hestjs/logger_0.1.6",
+      "maxVersionInclusive": "0.1.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@hestjs/scalar",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.7",
+      "name": "npm__hestjs/scalar_0.1.7",
+      "maxVersionInclusive": "0.1.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@hestjs/validation",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.6",
+      "name": "npm__hestjs/validation_0.1.6",
+      "maxVersionInclusive": "0.1.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/arraybuffers",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.6",
+      "name": "npm__nativescript-community/arraybuffers_1.1.6",
+      "maxVersionInclusive": "1.1.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/arraybuffers",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.7",
+      "name": "npm__nativescript-community/arraybuffers_1.1.7",
+      "maxVersionInclusive": "1.1.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/arraybuffers",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.8",
+      "name": "npm__nativescript-community/arraybuffers_1.1.8",
+      "maxVersionInclusive": "1.1.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/perms",
+      "type": "nodejs",
+      "minVersionInclusive": "3.0.5",
+      "name": "npm__nativescript-community/perms_3.0.5",
+      "maxVersionInclusive": "3.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/perms",
+      "type": "nodejs",
+      "minVersionInclusive": "3.0.6",
+      "name": "npm__nativescript-community/perms_3.0.6",
+      "maxVersionInclusive": "3.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/perms",
+      "type": "nodejs",
+      "minVersionInclusive": "3.0.7",
+      "name": "npm__nativescript-community/perms_3.0.7",
+      "maxVersionInclusive": "3.0.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/perms",
+      "type": "nodejs",
+      "minVersionInclusive": "3.0.8",
+      "name": "npm__nativescript-community/perms_3.0.8",
+      "maxVersionInclusive": "3.0.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/perms",
+      "type": "nodejs",
+      "minVersionInclusive": "3.0.9",
+      "name": "npm__nativescript-community/perms_3.0.9",
+      "maxVersionInclusive": "3.0.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/sentry",
+      "type": "nodejs",
+      "minVersionInclusive": "4.6.43",
+      "name": "npm__nativescript-community/sentry_4.6.43",
+      "maxVersionInclusive": "4.6.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/sqlite",
+      "type": "nodejs",
+      "minVersionInclusive": "3.5.3",
+      "name": "npm__nativescript-community/sqlite_3.5.3",
+      "maxVersionInclusive": "3.5.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/sqlite",
+      "type": "nodejs",
+      "minVersionInclusive": "3.5.4",
+      "name": "npm__nativescript-community/sqlite_3.5.4",
+      "maxVersionInclusive": "3.5.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/sqlite",
+      "type": "nodejs",
+      "minVersionInclusive": "3.5.5",
+      "name": "npm__nativescript-community/sqlite_3.5.5",
+      "maxVersionInclusive": "3.5.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/text",
+      "type": "nodejs",
+      "minVersionInclusive": "1.6.10",
+      "name": "npm__nativescript-community/text_1.6.10",
+      "maxVersionInclusive": "1.6.10",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/text",
+      "type": "nodejs",
+      "minVersionInclusive": "1.6.11",
+      "name": "npm__nativescript-community/text_1.6.11",
+      "maxVersionInclusive": "1.6.11",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/text",
+      "type": "nodejs",
+      "minVersionInclusive": "1.6.12",
+      "name": "npm__nativescript-community/text_1.6.12",
+      "maxVersionInclusive": "1.6.12",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/text",
+      "type": "nodejs",
+      "minVersionInclusive": "1.6.9",
+      "name": "npm__nativescript-community/text_1.6.9",
+      "maxVersionInclusive": "1.6.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/typeorm",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.30",
+      "name": "npm__nativescript-community/typeorm_0.2.30",
+      "maxVersionInclusive": "0.2.30",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/typeorm",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.31",
+      "name": "npm__nativescript-community/typeorm_0.2.31",
+      "maxVersionInclusive": "0.2.31",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/typeorm",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.32",
+      "name": "npm__nativescript-community/typeorm_0.2.32",
+      "maxVersionInclusive": "0.2.32",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/typeorm",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.33",
+      "name": "npm__nativescript-community/typeorm_0.2.33",
+      "maxVersionInclusive": "0.2.33",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-document-picker",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.27",
+      "name": "npm__nativescript-community/ui-document-picker_1.1.27",
+      "maxVersionInclusive": "1.1.27",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-document-picker",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.28",
+      "name": "npm__nativescript-community/ui-document-picker_1.1.28",
+      "maxVersionInclusive": "1.1.28",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-label",
+      "type": "nodejs",
+      "minVersionInclusive": "1.3.35",
+      "name": "npm__nativescript-community/ui-label_1.3.35",
+      "maxVersionInclusive": "1.3.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-label",
+      "type": "nodejs",
+      "minVersionInclusive": "1.3.36",
+      "name": "npm__nativescript-community/ui-label_1.3.36",
+      "maxVersionInclusive": "1.3.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-label",
+      "type": "nodejs",
+      "minVersionInclusive": "1.3.37",
+      "name": "npm__nativescript-community/ui-label_1.3.37",
+      "maxVersionInclusive": "1.3.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-bottom-navigation",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.72",
+      "name": "npm__nativescript-community/ui-material-bottom-navigation_7.2.72",
+      "maxVersionInclusive": "7.2.72",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-bottom-navigation",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.73",
+      "name": "npm__nativescript-community/ui-material-bottom-navigation_7.2.73",
+      "maxVersionInclusive": "7.2.73",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-bottom-navigation",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.74",
+      "name": "npm__nativescript-community/ui-material-bottom-navigation_7.2.74",
+      "maxVersionInclusive": "7.2.74",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-bottom-navigation",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.75",
+      "name": "npm__nativescript-community/ui-material-bottom-navigation_7.2.75",
+      "maxVersionInclusive": "7.2.75",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-core",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.72",
+      "name": "npm__nativescript-community/ui-material-core_7.2.72",
+      "maxVersionInclusive": "7.2.72",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-core",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.73",
+      "name": "npm__nativescript-community/ui-material-core_7.2.73",
+      "maxVersionInclusive": "7.2.73",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-core",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.74",
+      "name": "npm__nativescript-community/ui-material-core_7.2.74",
+      "maxVersionInclusive": "7.2.74",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-core",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.75",
+      "name": "npm__nativescript-community/ui-material-core_7.2.75",
+      "maxVersionInclusive": "7.2.75",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-core-tabs",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.72",
+      "name": "npm__nativescript-community/ui-material-core-tabs_7.2.72",
+      "maxVersionInclusive": "7.2.72",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-core-tabs",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.73",
+      "name": "npm__nativescript-community/ui-material-core-tabs_7.2.73",
+      "maxVersionInclusive": "7.2.73",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-core-tabs",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.74",
+      "name": "npm__nativescript-community/ui-material-core-tabs_7.2.74",
+      "maxVersionInclusive": "7.2.74",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-core-tabs",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.75",
+      "name": "npm__nativescript-community/ui-material-core-tabs_7.2.75",
+      "maxVersionInclusive": "7.2.75",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-ripple",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.72",
+      "name": "npm__nativescript-community/ui-material-ripple_7.2.72",
+      "maxVersionInclusive": "7.2.72",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-ripple",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.73",
+      "name": "npm__nativescript-community/ui-material-ripple_7.2.73",
+      "maxVersionInclusive": "7.2.73",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-ripple",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.74",
+      "name": "npm__nativescript-community/ui-material-ripple_7.2.74",
+      "maxVersionInclusive": "7.2.74",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-ripple",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.75",
+      "name": "npm__nativescript-community/ui-material-ripple_7.2.75",
+      "maxVersionInclusive": "7.2.75",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-tabs",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.72",
+      "name": "npm__nativescript-community/ui-material-tabs_7.2.72",
+      "maxVersionInclusive": "7.2.72",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-tabs",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.73",
+      "name": "npm__nativescript-community/ui-material-tabs_7.2.73",
+      "maxVersionInclusive": "7.2.73",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-tabs",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.74",
+      "name": "npm__nativescript-community/ui-material-tabs_7.2.74",
+      "maxVersionInclusive": "7.2.74",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-material-tabs",
+      "type": "nodejs",
+      "minVersionInclusive": "7.2.75",
+      "name": "npm__nativescript-community/ui-material-tabs_7.2.75",
+      "maxVersionInclusive": "7.2.75",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-pager",
+      "type": "nodejs",
+      "minVersionInclusive": "14.1.35",
+      "name": "npm__nativescript-community/ui-pager_14.1.35",
+      "maxVersionInclusive": "14.1.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-pager",
+      "type": "nodejs",
+      "minVersionInclusive": "14.1.36",
+      "name": "npm__nativescript-community/ui-pager_14.1.36",
+      "maxVersionInclusive": "14.1.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-pager",
+      "type": "nodejs",
+      "minVersionInclusive": "14.1.37",
+      "name": "npm__nativescript-community/ui-pager_14.1.37",
+      "maxVersionInclusive": "14.1.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-pager",
+      "type": "nodejs",
+      "minVersionInclusive": "14.1.38",
+      "name": "npm__nativescript-community/ui-pager_14.1.38",
+      "maxVersionInclusive": "14.1.38",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-pulltorefresh",
+      "type": "nodejs",
+      "minVersionInclusive": "2.5.4",
+      "name": "npm__nativescript-community/ui-pulltorefresh_2.5.4",
+      "maxVersionInclusive": "2.5.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-pulltorefresh",
+      "type": "nodejs",
+      "minVersionInclusive": "2.5.5",
+      "name": "npm__nativescript-community/ui-pulltorefresh_2.5.5",
+      "maxVersionInclusive": "2.5.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-pulltorefresh",
+      "type": "nodejs",
+      "minVersionInclusive": "2.5.6",
+      "name": "npm__nativescript-community/ui-pulltorefresh_2.5.6",
+      "maxVersionInclusive": "2.5.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nativescript-community/ui-pulltorefresh",
+      "type": "nodejs",
+      "minVersionInclusive": "2.5.7",
+      "name": "npm__nativescript-community/ui-pulltorefresh_2.5.7",
+      "maxVersionInclusive": "2.5.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nexe/config-manager",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.1",
+      "name": "npm__nexe/config-manager_0.1.1",
+      "maxVersionInclusive": "0.1.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nexe/eslint-config",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.1",
+      "name": "npm__nexe/eslint-config_0.1.1",
+      "maxVersionInclusive": "0.1.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nexe/logger",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.3",
+      "name": "npm__nexe/logger_0.1.3",
+      "maxVersionInclusive": "0.1.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/angular",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.4",
+      "name": "npm__nstudio/angular_20.0.4",
+      "maxVersionInclusive": "20.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/angular",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.5",
+      "name": "npm__nstudio/angular_20.0.5",
+      "maxVersionInclusive": "20.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/angular",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.6",
+      "name": "npm__nstudio/angular_20.0.6",
+      "maxVersionInclusive": "20.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/focus",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.4",
+      "name": "npm__nstudio/focus_20.0.4",
+      "maxVersionInclusive": "20.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/focus",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.5",
+      "name": "npm__nstudio/focus_20.0.5",
+      "maxVersionInclusive": "20.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/focus",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.6",
+      "name": "npm__nstudio/focus_20.0.6",
+      "maxVersionInclusive": "20.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/nativescript-checkbox",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.6",
+      "name": "npm__nstudio/nativescript-checkbox_2.0.6",
+      "maxVersionInclusive": "2.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/nativescript-checkbox",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.7",
+      "name": "npm__nstudio/nativescript-checkbox_2.0.7",
+      "maxVersionInclusive": "2.0.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/nativescript-checkbox",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.8",
+      "name": "npm__nstudio/nativescript-checkbox_2.0.8",
+      "maxVersionInclusive": "2.0.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/nativescript-checkbox",
+      "type": "nodejs",
+      "minVersionInclusive": "2.0.9",
+      "name": "npm__nstudio/nativescript-checkbox_2.0.9",
+      "maxVersionInclusive": "2.0.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/nativescript-loading-indicator",
+      "type": "nodejs",
+      "minVersionInclusive": "5.0.1",
+      "name": "npm__nstudio/nativescript-loading-indicator_5.0.1",
+      "maxVersionInclusive": "5.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/nativescript-loading-indicator",
+      "type": "nodejs",
+      "minVersionInclusive": "5.0.2",
+      "name": "npm__nstudio/nativescript-loading-indicator_5.0.2",
+      "maxVersionInclusive": "5.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/nativescript-loading-indicator",
+      "type": "nodejs",
+      "minVersionInclusive": "5.0.3",
+      "name": "npm__nstudio/nativescript-loading-indicator_5.0.3",
+      "maxVersionInclusive": "5.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/nativescript-loading-indicator",
+      "type": "nodejs",
+      "minVersionInclusive": "5.0.4",
+      "name": "npm__nstudio/nativescript-loading-indicator_5.0.4",
+      "maxVersionInclusive": "5.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/ui-collectionview",
+      "type": "nodejs",
+      "minVersionInclusive": "5.1.11",
+      "name": "npm__nstudio/ui-collectionview_5.1.11",
+      "maxVersionInclusive": "5.1.11",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/ui-collectionview",
+      "type": "nodejs",
+      "minVersionInclusive": "5.1.12",
+      "name": "npm__nstudio/ui-collectionview_5.1.12",
+      "maxVersionInclusive": "5.1.12",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/ui-collectionview",
+      "type": "nodejs",
+      "minVersionInclusive": "5.1.13",
+      "name": "npm__nstudio/ui-collectionview_5.1.13",
+      "maxVersionInclusive": "5.1.13",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/ui-collectionview",
+      "type": "nodejs",
+      "minVersionInclusive": "5.1.14",
+      "name": "npm__nstudio/ui-collectionview_5.1.14",
+      "maxVersionInclusive": "5.1.14",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/web",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.4",
+      "name": "npm__nstudio/web_20.0.4",
+      "maxVersionInclusive": "20.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/web-angular",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.4",
+      "name": "npm__nstudio/web-angular_20.0.4",
+      "maxVersionInclusive": "20.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/xplat",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.4",
+      "name": "npm__nstudio/xplat_20.0.4",
+      "maxVersionInclusive": "20.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/xplat",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.5",
+      "name": "npm__nstudio/xplat_20.0.5",
+      "maxVersionInclusive": "20.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/xplat",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.6",
+      "name": "npm__nstudio/xplat_20.0.6",
+      "maxVersionInclusive": "20.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/xplat",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.7",
+      "name": "npm__nstudio/xplat_20.0.7",
+      "maxVersionInclusive": "20.0.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/xplat-utils",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.4",
+      "name": "npm__nstudio/xplat-utils_20.0.4",
+      "maxVersionInclusive": "20.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/xplat-utils",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.5",
+      "name": "npm__nstudio/xplat-utils_20.0.5",
+      "maxVersionInclusive": "20.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/xplat-utils",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.6",
+      "name": "npm__nstudio/xplat-utils_20.0.6",
+      "maxVersionInclusive": "20.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@nstudio/xplat-utils",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.7",
+      "name": "npm__nstudio/xplat-utils_20.0.7",
+      "maxVersionInclusive": "20.0.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/board_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/board_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/board_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.38",
+      "name": "npm__operato/board_9.0.38",
+      "maxVersionInclusive": "9.0.38",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.39",
+      "name": "npm__operato/board_9.0.39",
+      "maxVersionInclusive": "9.0.39",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.40",
+      "name": "npm__operato/board_9.0.40",
+      "maxVersionInclusive": "9.0.40",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.41",
+      "name": "npm__operato/board_9.0.41",
+      "maxVersionInclusive": "9.0.41",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__operato/board_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__operato/board_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__operato/board_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__operato/board_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.46",
+      "name": "npm__operato/board_9.0.46",
+      "maxVersionInclusive": "9.0.46",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.47",
+      "name": "npm__operato/board_9.0.47",
+      "maxVersionInclusive": "9.0.47",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.48",
+      "name": "npm__operato/board_9.0.48",
+      "maxVersionInclusive": "9.0.48",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.49",
+      "name": "npm__operato/board_9.0.49",
+      "maxVersionInclusive": "9.0.49",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.50",
+      "name": "npm__operato/board_9.0.50",
+      "maxVersionInclusive": "9.0.50",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/board",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.51",
+      "name": "npm__operato/board_9.0.51",
+      "maxVersionInclusive": "9.0.51",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/data-grist",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.29",
+      "name": "npm__operato/data-grist_9.0.29",
+      "maxVersionInclusive": "9.0.29",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/data-grist",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/data-grist_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/data-grist",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/data-grist_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/data-grist",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/data-grist_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.22",
+      "name": "npm__operato/graphql_9.0.22",
+      "maxVersionInclusive": "9.0.22",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/graphql_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/graphql_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/graphql_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.38",
+      "name": "npm__operato/graphql_9.0.38",
+      "maxVersionInclusive": "9.0.38",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.39",
+      "name": "npm__operato/graphql_9.0.39",
+      "maxVersionInclusive": "9.0.39",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.40",
+      "name": "npm__operato/graphql_9.0.40",
+      "maxVersionInclusive": "9.0.40",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.41",
+      "name": "npm__operato/graphql_9.0.41",
+      "maxVersionInclusive": "9.0.41",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__operato/graphql_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__operato/graphql_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__operato/graphql_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__operato/graphql_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.46",
+      "name": "npm__operato/graphql_9.0.46",
+      "maxVersionInclusive": "9.0.46",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.47",
+      "name": "npm__operato/graphql_9.0.47",
+      "maxVersionInclusive": "9.0.47",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.48",
+      "name": "npm__operato/graphql_9.0.48",
+      "maxVersionInclusive": "9.0.48",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.49",
+      "name": "npm__operato/graphql_9.0.49",
+      "maxVersionInclusive": "9.0.49",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.50",
+      "name": "npm__operato/graphql_9.0.50",
+      "maxVersionInclusive": "9.0.50",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/graphql",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.51",
+      "name": "npm__operato/graphql_9.0.51",
+      "maxVersionInclusive": "9.0.51",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/headroom",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.2",
+      "name": "npm__operato/headroom_9.0.2",
+      "maxVersionInclusive": "9.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/headroom",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/headroom_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/headroom",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/headroom_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/headroom",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/headroom_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/help_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/help_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/help_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.38",
+      "name": "npm__operato/help_9.0.38",
+      "maxVersionInclusive": "9.0.38",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.39",
+      "name": "npm__operato/help_9.0.39",
+      "maxVersionInclusive": "9.0.39",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.40",
+      "name": "npm__operato/help_9.0.40",
+      "maxVersionInclusive": "9.0.40",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.41",
+      "name": "npm__operato/help_9.0.41",
+      "maxVersionInclusive": "9.0.41",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__operato/help_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__operato/help_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__operato/help_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__operato/help_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.46",
+      "name": "npm__operato/help_9.0.46",
+      "maxVersionInclusive": "9.0.46",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.47",
+      "name": "npm__operato/help_9.0.47",
+      "maxVersionInclusive": "9.0.47",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.48",
+      "name": "npm__operato/help_9.0.48",
+      "maxVersionInclusive": "9.0.48",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.49",
+      "name": "npm__operato/help_9.0.49",
+      "maxVersionInclusive": "9.0.49",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.50",
+      "name": "npm__operato/help_9.0.50",
+      "maxVersionInclusive": "9.0.50",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/help",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.51",
+      "name": "npm__operato/help_9.0.51",
+      "maxVersionInclusive": "9.0.51",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/i18n",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/i18n_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/i18n",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/i18n_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/i18n",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/i18n_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/input_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/input_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/input_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.38",
+      "name": "npm__operato/input_9.0.38",
+      "maxVersionInclusive": "9.0.38",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.39",
+      "name": "npm__operato/input_9.0.39",
+      "maxVersionInclusive": "9.0.39",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.40",
+      "name": "npm__operato/input_9.0.40",
+      "maxVersionInclusive": "9.0.40",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.41",
+      "name": "npm__operato/input_9.0.41",
+      "maxVersionInclusive": "9.0.41",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__operato/input_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__operato/input_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__operato/input_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__operato/input_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.46",
+      "name": "npm__operato/input_9.0.46",
+      "maxVersionInclusive": "9.0.46",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.47",
+      "name": "npm__operato/input_9.0.47",
+      "maxVersionInclusive": "9.0.47",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/input",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.48",
+      "name": "npm__operato/input_9.0.48",
+      "maxVersionInclusive": "9.0.48",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/layout",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/layout_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/layout",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/layout_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/popup_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/popup_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/popup_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.38",
+      "name": "npm__operato/popup_9.0.38",
+      "maxVersionInclusive": "9.0.38",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.39",
+      "name": "npm__operato/popup_9.0.39",
+      "maxVersionInclusive": "9.0.39",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.40",
+      "name": "npm__operato/popup_9.0.40",
+      "maxVersionInclusive": "9.0.40",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.41",
+      "name": "npm__operato/popup_9.0.41",
+      "maxVersionInclusive": "9.0.41",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__operato/popup_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__operato/popup_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__operato/popup_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__operato/popup_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.46",
+      "name": "npm__operato/popup_9.0.46",
+      "maxVersionInclusive": "9.0.46",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.47",
+      "name": "npm__operato/popup_9.0.47",
+      "maxVersionInclusive": "9.0.47",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.48",
+      "name": "npm__operato/popup_9.0.48",
+      "maxVersionInclusive": "9.0.48",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.49",
+      "name": "npm__operato/popup_9.0.49",
+      "maxVersionInclusive": "9.0.49",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.50",
+      "name": "npm__operato/popup_9.0.50",
+      "maxVersionInclusive": "9.0.50",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/popup",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.51",
+      "name": "npm__operato/popup_9.0.51",
+      "maxVersionInclusive": "9.0.51",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/pull-to-refresh_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/pull-to-refresh_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/pull-to-refresh_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.38",
+      "name": "npm__operato/pull-to-refresh_9.0.38",
+      "maxVersionInclusive": "9.0.38",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.39",
+      "name": "npm__operato/pull-to-refresh_9.0.39",
+      "maxVersionInclusive": "9.0.39",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.40",
+      "name": "npm__operato/pull-to-refresh_9.0.40",
+      "maxVersionInclusive": "9.0.40",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.41",
+      "name": "npm__operato/pull-to-refresh_9.0.41",
+      "maxVersionInclusive": "9.0.41",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__operato/pull-to-refresh_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__operato/pull-to-refresh_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__operato/pull-to-refresh_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__operato/pull-to-refresh_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.46",
+      "name": "npm__operato/pull-to-refresh_9.0.46",
+      "maxVersionInclusive": "9.0.46",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/pull-to-refresh",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.47",
+      "name": "npm__operato/pull-to-refresh_9.0.47",
+      "maxVersionInclusive": "9.0.47",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/shell",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.22",
+      "name": "npm__operato/shell_9.0.22",
+      "maxVersionInclusive": "9.0.22",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/shell",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/shell_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/shell",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/shell_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/shell",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/shell_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/shell",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.38",
+      "name": "npm__operato/shell_9.0.38",
+      "maxVersionInclusive": "9.0.38",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/shell",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.39",
+      "name": "npm__operato/shell_9.0.39",
+      "maxVersionInclusive": "9.0.39",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/styles",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.2",
+      "name": "npm__operato/styles_9.0.2",
+      "maxVersionInclusive": "9.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/styles",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/styles_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/styles",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/styles_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/styles",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/styles_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.22",
+      "name": "npm__operato/utils_9.0.22",
+      "maxVersionInclusive": "9.0.22",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.35",
+      "name": "npm__operato/utils_9.0.35",
+      "maxVersionInclusive": "9.0.35",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.36",
+      "name": "npm__operato/utils_9.0.36",
+      "maxVersionInclusive": "9.0.36",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.37",
+      "name": "npm__operato/utils_9.0.37",
+      "maxVersionInclusive": "9.0.37",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.38",
+      "name": "npm__operato/utils_9.0.38",
+      "maxVersionInclusive": "9.0.38",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.39",
+      "name": "npm__operato/utils_9.0.39",
+      "maxVersionInclusive": "9.0.39",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.40",
+      "name": "npm__operato/utils_9.0.40",
+      "maxVersionInclusive": "9.0.40",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.41",
+      "name": "npm__operato/utils_9.0.41",
+      "maxVersionInclusive": "9.0.41",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__operato/utils_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__operato/utils_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__operato/utils_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__operato/utils_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.46",
+      "name": "npm__operato/utils_9.0.46",
+      "maxVersionInclusive": "9.0.46",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.47",
+      "name": "npm__operato/utils_9.0.47",
+      "maxVersionInclusive": "9.0.47",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.48",
+      "name": "npm__operato/utils_9.0.48",
+      "maxVersionInclusive": "9.0.48",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.49",
+      "name": "npm__operato/utils_9.0.49",
+      "maxVersionInclusive": "9.0.49",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.50",
+      "name": "npm__operato/utils_9.0.50",
+      "maxVersionInclusive": "9.0.50",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@operato/utils",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.51",
+      "name": "npm__operato/utils_9.0.51",
+      "maxVersionInclusive": "9.0.51",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/bio-parsers",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.29",
+      "name": "npm__teselagen/bio-parsers_0.4.29",
+      "maxVersionInclusive": "0.4.29",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/bio-parsers",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.30",
+      "name": "npm__teselagen/bio-parsers_0.4.30",
+      "maxVersionInclusive": "0.4.30",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/bounce-loader",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.16",
+      "name": "npm__teselagen/bounce-loader_0.3.16",
+      "maxVersionInclusive": "0.3.16",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/bounce-loader",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.17",
+      "name": "npm__teselagen/bounce-loader_0.3.17",
+      "maxVersionInclusive": "0.3.17",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/file-utils",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.21",
+      "name": "npm__teselagen/file-utils_0.3.21",
+      "maxVersionInclusive": "0.3.21",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/file-utils",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.22",
+      "name": "npm__teselagen/file-utils_0.3.22",
+      "maxVersionInclusive": "0.3.22",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/liquibase-tools",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.1",
+      "name": "npm__teselagen/liquibase-tools_0.4.1",
+      "maxVersionInclusive": "0.4.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/ove",
+      "type": "nodejs",
+      "minVersionInclusive": "0.7.39",
+      "name": "npm__teselagen/ove_0.7.39",
+      "maxVersionInclusive": "0.7.39",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/ove",
+      "type": "nodejs",
+      "minVersionInclusive": "0.7.40",
+      "name": "npm__teselagen/ove_0.7.40",
+      "maxVersionInclusive": "0.7.40",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/range-utils",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.14",
+      "name": "npm__teselagen/range-utils_0.3.14",
+      "maxVersionInclusive": "0.3.14",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/range-utils",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.15",
+      "name": "npm__teselagen/range-utils_0.3.15",
+      "maxVersionInclusive": "0.3.15",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/react-list",
+      "type": "nodejs",
+      "minVersionInclusive": "0.8.19",
+      "name": "npm__teselagen/react-list_0.8.19",
+      "maxVersionInclusive": "0.8.19",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/react-list",
+      "type": "nodejs",
+      "minVersionInclusive": "0.8.20",
+      "name": "npm__teselagen/react-list_0.8.20",
+      "maxVersionInclusive": "0.8.20",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/react-table",
+      "type": "nodejs",
+      "minVersionInclusive": "6.10.19",
+      "name": "npm__teselagen/react-table_6.10.19",
+      "maxVersionInclusive": "6.10.19",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/react-table",
+      "type": "nodejs",
+      "minVersionInclusive": "6.10.20",
+      "name": "npm__teselagen/react-table_6.10.20",
+      "maxVersionInclusive": "6.10.20",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/react-table",
+      "type": "nodejs",
+      "minVersionInclusive": "6.10.21",
+      "name": "npm__teselagen/react-table_6.10.21",
+      "maxVersionInclusive": "6.10.21",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/react-table",
+      "type": "nodejs",
+      "minVersionInclusive": "6.10.22",
+      "name": "npm__teselagen/react-table_6.10.22",
+      "maxVersionInclusive": "6.10.22",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/sequence-utils",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.33",
+      "name": "npm__teselagen/sequence-utils_0.3.33",
+      "maxVersionInclusive": "0.3.33",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/sequence-utils",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.34",
+      "name": "npm__teselagen/sequence-utils_0.3.34",
+      "maxVersionInclusive": "0.3.34",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/ui",
+      "type": "nodejs",
+      "minVersionInclusive": "0.9.10",
+      "name": "npm__teselagen/ui_0.9.10",
+      "maxVersionInclusive": "0.9.10",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@teselagen/ui",
+      "type": "nodejs",
+      "minVersionInclusive": "0.9.9",
+      "name": "npm__teselagen/ui_0.9.9",
+      "maxVersionInclusive": "0.9.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@thangved/callback-window",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.4",
+      "name": "npm__thangved/callback-window_1.1.4",
+      "maxVersionInclusive": "1.1.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__things-factory/attachment-base_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__things-factory/attachment-base_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__things-factory/attachment-base_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__things-factory/attachment-base_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.46",
+      "name": "npm__things-factory/attachment-base_9.0.46",
+      "maxVersionInclusive": "9.0.46",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.47",
+      "name": "npm__things-factory/attachment-base_9.0.47",
+      "maxVersionInclusive": "9.0.47",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.48",
+      "name": "npm__things-factory/attachment-base_9.0.48",
+      "maxVersionInclusive": "9.0.48",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.49",
+      "name": "npm__things-factory/attachment-base_9.0.49",
+      "maxVersionInclusive": "9.0.49",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.50",
+      "name": "npm__things-factory/attachment-base_9.0.50",
+      "maxVersionInclusive": "9.0.50",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.51",
+      "name": "npm__things-factory/attachment-base_9.0.51",
+      "maxVersionInclusive": "9.0.51",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.52",
+      "name": "npm__things-factory/attachment-base_9.0.52",
+      "maxVersionInclusive": "9.0.52",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.53",
+      "name": "npm__things-factory/attachment-base_9.0.53",
+      "maxVersionInclusive": "9.0.53",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.54",
+      "name": "npm__things-factory/attachment-base_9.0.54",
+      "maxVersionInclusive": "9.0.54",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/attachment-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.55",
+      "name": "npm__things-factory/attachment-base_9.0.55",
+      "maxVersionInclusive": "9.0.55",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/auth-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__things-factory/auth-base_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/auth-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__things-factory/auth-base_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/auth-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__things-factory/auth-base_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/auth-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__things-factory/auth-base_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__things-factory/email-base_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__things-factory/email-base_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__things-factory/email-base_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__things-factory/email-base_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.46",
+      "name": "npm__things-factory/email-base_9.0.46",
+      "maxVersionInclusive": "9.0.46",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.47",
+      "name": "npm__things-factory/email-base_9.0.47",
+      "maxVersionInclusive": "9.0.47",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.48",
+      "name": "npm__things-factory/email-base_9.0.48",
+      "maxVersionInclusive": "9.0.48",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.49",
+      "name": "npm__things-factory/email-base_9.0.49",
+      "maxVersionInclusive": "9.0.49",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.50",
+      "name": "npm__things-factory/email-base_9.0.50",
+      "maxVersionInclusive": "9.0.50",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.51",
+      "name": "npm__things-factory/email-base_9.0.51",
+      "maxVersionInclusive": "9.0.51",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.52",
+      "name": "npm__things-factory/email-base_9.0.52",
+      "maxVersionInclusive": "9.0.52",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.53",
+      "name": "npm__things-factory/email-base_9.0.53",
+      "maxVersionInclusive": "9.0.53",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.54",
+      "name": "npm__things-factory/email-base_9.0.54",
+      "maxVersionInclusive": "9.0.54",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.55",
+      "name": "npm__things-factory/email-base_9.0.55",
+      "maxVersionInclusive": "9.0.55",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.56",
+      "name": "npm__things-factory/email-base_9.0.56",
+      "maxVersionInclusive": "9.0.56",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.57",
+      "name": "npm__things-factory/email-base_9.0.57",
+      "maxVersionInclusive": "9.0.57",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.58",
+      "name": "npm__things-factory/email-base_9.0.58",
+      "maxVersionInclusive": "9.0.58",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/email-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.59",
+      "name": "npm__things-factory/email-base_9.0.59",
+      "maxVersionInclusive": "9.0.59",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/env",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__things-factory/env_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/env",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__things-factory/env_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/env",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__things-factory/env_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/env",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__things-factory/env_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/integration-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__things-factory/integration-base_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/integration-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__things-factory/integration-base_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/integration-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__things-factory/integration-base_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/integration-base",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__things-factory/integration-base_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/integration-marketplace",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__things-factory/integration-marketplace_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/integration-marketplace",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__things-factory/integration-marketplace_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/integration-marketplace",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__things-factory/integration-marketplace_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/integration-marketplace",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__things-factory/integration-marketplace_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/shell",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.42",
+      "name": "npm__things-factory/shell_9.0.42",
+      "maxVersionInclusive": "9.0.42",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/shell",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.43",
+      "name": "npm__things-factory/shell_9.0.43",
+      "maxVersionInclusive": "9.0.43",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/shell",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.44",
+      "name": "npm__things-factory/shell_9.0.44",
+      "maxVersionInclusive": "9.0.44",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@things-factory/shell",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.45",
+      "name": "npm__things-factory/shell_9.0.45",
+      "maxVersionInclusive": "9.0.45",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@tnf-dev/api",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.8",
+      "name": "npm__tnf-dev/api_1.0.8",
+      "maxVersionInclusive": "1.0.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@tnf-dev/core",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.8",
+      "name": "npm__tnf-dev/core_1.0.8",
+      "maxVersionInclusive": "1.0.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@tnf-dev/js",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.8",
+      "name": "npm__tnf-dev/js_1.0.8",
+      "maxVersionInclusive": "1.0.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@tnf-dev/mui",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.8",
+      "name": "npm__tnf-dev/mui_1.0.8",
+      "maxVersionInclusive": "1.0.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@tnf-dev/react",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.8",
+      "name": "npm__tnf-dev/react_1.0.8",
+      "maxVersionInclusive": "1.0.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ui-ux-gang/devextreme-angular-rpk",
+      "type": "nodejs",
+      "minVersionInclusive": "24.1.7",
+      "name": "npm__ui-ux-gang/devextreme-angular-rpk_24.1.7",
+      "maxVersionInclusive": "24.1.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@ui-ux-gang/devextreme-rpk",
+      "type": "nodejs",
+      "minVersionInclusive": "24.1.7",
+      "name": "npm__ui-ux-gang/devextreme-rpk_24.1.7",
+      "maxVersionInclusive": "24.1.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@yoobic/design-system",
+      "type": "nodejs",
+      "minVersionInclusive": "6.5.17",
+      "name": "npm__yoobic/design-system_6.5.17",
+      "maxVersionInclusive": "6.5.17",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@yoobic/jpeg-camera-es6",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.13",
+      "name": "npm__yoobic/jpeg-camera-es6_1.0.13",
+      "maxVersionInclusive": "1.0.13",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "@yoobic/yobi",
+      "type": "nodejs",
+      "minVersionInclusive": "8.7.53",
+      "name": "npm__yoobic/yobi_8.7.53",
+      "maxVersionInclusive": "8.7.53",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ace-colorpicker-rpk",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.14",
+      "name": "npm_ace-colorpicker-rpk_0.0.14",
+      "maxVersionInclusive": "0.0.14",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "airchief",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.1",
+      "name": "npm_airchief_0.3.1",
+      "maxVersionInclusive": "0.3.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "airpilot",
+      "type": "nodejs",
+      "minVersionInclusive": "0.8.8",
+      "name": "npm_airpilot_0.8.8",
+      "maxVersionInclusive": "0.8.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "angulartics2",
+      "type": "nodejs",
+      "minVersionInclusive": "14.1.1",
+      "name": "npm_angulartics2_14.1.1",
+      "maxVersionInclusive": "14.1.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "browser-webdriver-downloader",
+      "type": "nodejs",
+      "minVersionInclusive": "3.0.8",
+      "name": "npm_browser-webdriver-downloader_3.0.8",
+      "maxVersionInclusive": "3.0.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "capacitor-notificationhandler",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.2",
+      "name": "npm_capacitor-notificationhandler_0.0.2",
+      "maxVersionInclusive": "0.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "capacitor-notificationhandler",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.3",
+      "name": "npm_capacitor-notificationhandler_0.0.3",
+      "maxVersionInclusive": "0.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "capacitor-plugin-healthapp",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.2",
+      "name": "npm_capacitor-plugin-healthapp_0.0.2",
+      "maxVersionInclusive": "0.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "capacitor-plugin-healthapp",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.3",
+      "name": "npm_capacitor-plugin-healthapp_0.0.3",
+      "maxVersionInclusive": "0.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "capacitor-plugin-ihealth",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.8",
+      "name": "npm_capacitor-plugin-ihealth_1.1.8",
+      "maxVersionInclusive": "1.1.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "capacitor-plugin-ihealth",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.9",
+      "name": "npm_capacitor-plugin-ihealth_1.1.9",
+      "maxVersionInclusive": "1.1.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "capacitor-plugin-vonage",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.2",
+      "name": "npm_capacitor-plugin-vonage_1.0.2",
+      "maxVersionInclusive": "1.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "capacitor-plugin-vonage",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.3",
+      "name": "npm_capacitor-plugin-vonage_1.0.3",
+      "maxVersionInclusive": "1.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "capacitorandroidpermissions",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.4",
+      "name": "npm_capacitorandroidpermissions_0.0.4",
+      "maxVersionInclusive": "0.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "capacitorandroidpermissions",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.5",
+      "name": "npm_capacitorandroidpermissions_0.0.5",
+      "maxVersionInclusive": "0.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "config-cordova",
+      "type": "nodejs",
+      "minVersionInclusive": "0.8.5",
+      "name": "npm_config-cordova_0.8.5",
+      "maxVersionInclusive": "0.8.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "cordova-plugin-voxeet2",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.24",
+      "name": "npm_cordova-plugin-voxeet2_1.0.24",
+      "maxVersionInclusive": "1.0.24",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "cordova-voxeet",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.32",
+      "name": "npm_cordova-voxeet_1.0.32",
+      "maxVersionInclusive": "1.0.32",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "create-hest-app",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.9",
+      "name": "npm_create-hest-app_0.1.9",
+      "maxVersionInclusive": "0.1.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "db-evo",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.4",
+      "name": "npm_db-evo_1.1.4",
+      "maxVersionInclusive": "1.1.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "db-evo",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.5",
+      "name": "npm_db-evo_1.1.5",
+      "maxVersionInclusive": "1.1.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "devextreme-angular-rpk",
+      "type": "nodejs",
+      "minVersionInclusive": "21.2.8",
+      "name": "npm_devextreme-angular-rpk_21.2.8",
+      "maxVersionInclusive": "21.2.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "devextreme-rpk",
+      "type": "nodejs",
+      "minVersionInclusive": "21.2.8",
+      "name": "npm_devextreme-rpk_21.2.8",
+      "maxVersionInclusive": "21.2.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-browser-services",
+      "type": "nodejs",
+      "minVersionInclusive": "5.0.2",
+      "name": "npm_ember-browser-services_5.0.2",
+      "maxVersionInclusive": "5.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-browser-services",
+      "type": "nodejs",
+      "minVersionInclusive": "5.0.3",
+      "name": "npm_ember-browser-services_5.0.3",
+      "maxVersionInclusive": "5.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-headless-form",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.2",
+      "name": "npm_ember-headless-form_1.1.2",
+      "maxVersionInclusive": "1.1.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-headless-form",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.3",
+      "name": "npm_ember-headless-form_1.1.3",
+      "maxVersionInclusive": "1.1.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-headless-form-yup",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.1",
+      "name": "npm_ember-headless-form-yup_1.0.1",
+      "maxVersionInclusive": "1.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-headless-table",
+      "type": "nodejs",
+      "minVersionInclusive": "2.1.5",
+      "name": "npm_ember-headless-table_2.1.5",
+      "maxVersionInclusive": "2.1.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-headless-table",
+      "type": "nodejs",
+      "minVersionInclusive": "2.1.6",
+      "name": "npm_ember-headless-table_2.1.6",
+      "maxVersionInclusive": "2.1.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-url-hash-polyfill",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.12",
+      "name": "npm_ember-url-hash-polyfill_1.0.12",
+      "maxVersionInclusive": "1.0.12",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-url-hash-polyfill",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.13",
+      "name": "npm_ember-url-hash-polyfill_1.0.13",
+      "maxVersionInclusive": "1.0.13",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-velcro",
+      "type": "nodejs",
+      "minVersionInclusive": "2.2.1",
+      "name": "npm_ember-velcro_2.2.1",
+      "maxVersionInclusive": "2.2.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ember-velcro",
+      "type": "nodejs",
+      "minVersionInclusive": "2.2.2",
+      "name": "npm_ember-velcro_2.2.2",
+      "maxVersionInclusive": "2.2.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "encounter-playground",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.2",
+      "name": "npm_encounter-playground_0.0.2",
+      "maxVersionInclusive": "0.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "encounter-playground",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.3",
+      "name": "npm_encounter-playground_0.0.3",
+      "maxVersionInclusive": "0.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "encounter-playground",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.4",
+      "name": "npm_encounter-playground_0.0.4",
+      "maxVersionInclusive": "0.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "eslint-config-crowdstrike",
+      "type": "nodejs",
+      "minVersionInclusive": "11.0.2",
+      "name": "npm_eslint-config-crowdstrike_11.0.2",
+      "maxVersionInclusive": "11.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "eslint-config-crowdstrike",
+      "type": "nodejs",
+      "minVersionInclusive": "11.0.3",
+      "name": "npm_eslint-config-crowdstrike_11.0.3",
+      "maxVersionInclusive": "11.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "eslint-config-crowdstrike-node",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.3",
+      "name": "npm_eslint-config-crowdstrike-node_4.0.3",
+      "maxVersionInclusive": "4.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "eslint-config-crowdstrike-node",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.4",
+      "name": "npm_eslint-config-crowdstrike-node_4.0.4",
+      "maxVersionInclusive": "4.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "eslint-config-teselagen",
+      "type": "nodejs",
+      "minVersionInclusive": "6.1.7",
+      "name": "npm_eslint-config-teselagen_6.1.7",
+      "maxVersionInclusive": "6.1.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "eslint-config-teselagen",
+      "type": "nodejs",
+      "minVersionInclusive": "6.1.8",
+      "name": "npm_eslint-config-teselagen_6.1.8",
+      "maxVersionInclusive": "6.1.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "globalize-rpk",
+      "type": "nodejs",
+      "minVersionInclusive": "1.7.4",
+      "name": "npm_globalize-rpk_1.7.4",
+      "maxVersionInclusive": "1.7.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "graphql-sequelize-teselagen",
+      "type": "nodejs",
+      "minVersionInclusive": "5.3.8",
+      "name": "npm_graphql-sequelize-teselagen_5.3.8",
+      "maxVersionInclusive": "5.3.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "graphql-sequelize-teselagen",
+      "type": "nodejs",
+      "minVersionInclusive": "5.3.9",
+      "name": "npm_graphql-sequelize-teselagen_5.3.9",
+      "maxVersionInclusive": "5.3.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "html-to-base64-image",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.2",
+      "name": "npm_html-to-base64-image_1.0.2",
+      "maxVersionInclusive": "1.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "json-rules-engine-simplified",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.1",
+      "name": "npm_json-rules-engine-simplified_0.2.1",
+      "maxVersionInclusive": "0.2.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "json-rules-engine-simplified",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.2",
+      "name": "npm_json-rules-engine-simplified_0.2.2",
+      "maxVersionInclusive": "0.2.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "json-rules-engine-simplified",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.3",
+      "name": "npm_json-rules-engine-simplified_0.2.3",
+      "maxVersionInclusive": "0.2.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "json-rules-engine-simplified",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.4",
+      "name": "npm_json-rules-engine-simplified_0.2.4",
+      "maxVersionInclusive": "0.2.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "jumpgate",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.2",
+      "name": "npm_jumpgate_0.0.2",
+      "maxVersionInclusive": "0.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "koa2-swagger-ui",
+      "type": "nodejs",
+      "minVersionInclusive": "5.11.1",
+      "name": "npm_koa2-swagger-ui_5.11.1",
+      "maxVersionInclusive": "5.11.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "koa2-swagger-ui",
+      "type": "nodejs",
+      "minVersionInclusive": "5.11.2",
+      "name": "npm_koa2-swagger-ui_5.11.2",
+      "maxVersionInclusive": "5.11.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "mcfly-semantic-release",
+      "type": "nodejs",
+      "minVersionInclusive": "1.3.1",
+      "name": "npm_mcfly-semantic-release_1.3.1",
+      "maxVersionInclusive": "1.3.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "mcp-knowledge-base",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.2",
+      "name": "npm_mcp-knowledge-base_0.0.2",
+      "maxVersionInclusive": "0.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "mcp-knowledge-graph",
+      "type": "nodejs",
+      "minVersionInclusive": "1.2.1",
+      "name": "npm_mcp-knowledge-graph_1.2.1",
+      "maxVersionInclusive": "1.2.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "mobioffice-cli",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.3",
+      "name": "npm_mobioffice-cli_1.0.3",
+      "maxVersionInclusive": "1.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "monorepo-next",
+      "type": "nodejs",
+      "minVersionInclusive": "13.0.1",
+      "name": "npm_monorepo-next_13.0.1",
+      "maxVersionInclusive": "13.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "monorepo-next",
+      "type": "nodejs",
+      "minVersionInclusive": "13.0.2",
+      "name": "npm_monorepo-next_13.0.2",
+      "maxVersionInclusive": "13.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "mstate-angular",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.4",
+      "name": "npm_mstate-angular_0.4.4",
+      "maxVersionInclusive": "0.4.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "mstate-cli",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.7",
+      "name": "npm_mstate-cli_0.4.7",
+      "maxVersionInclusive": "0.4.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "mstate-dev-react",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.1",
+      "name": "npm_mstate-dev-react_1.1.1",
+      "maxVersionInclusive": "1.1.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "mstate-react",
+      "type": "nodejs",
+      "minVersionInclusive": "1.6.5",
+      "name": "npm_mstate-react_1.6.5",
+      "maxVersionInclusive": "1.6.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ng-imports-checker",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.10",
+      "name": "npm_ng-imports-checker_0.0.10",
+      "maxVersionInclusive": "0.0.10",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ng-imports-checker",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.9",
+      "name": "npm_ng-imports-checker_0.0.9",
+      "maxVersionInclusive": "0.0.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ng2-file-upload",
+      "type": "nodejs",
+      "minVersionInclusive": "7.0.2",
+      "name": "npm_ng2-file-upload_7.0.2",
+      "maxVersionInclusive": "7.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ng2-file-upload",
+      "type": "nodejs",
+      "minVersionInclusive": "8.0.1",
+      "name": "npm_ng2-file-upload_8.0.1",
+      "maxVersionInclusive": "8.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ng2-file-upload",
+      "type": "nodejs",
+      "minVersionInclusive": "8.0.2",
+      "name": "npm_ng2-file-upload_8.0.2",
+      "maxVersionInclusive": "8.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ng2-file-upload",
+      "type": "nodejs",
+      "minVersionInclusive": "8.0.3",
+      "name": "npm_ng2-file-upload_8.0.3",
+      "maxVersionInclusive": "8.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ng2-file-upload",
+      "type": "nodejs",
+      "minVersionInclusive": "9.0.1",
+      "name": "npm_ng2-file-upload_9.0.1",
+      "maxVersionInclusive": "9.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-bootstrap",
+      "type": "nodejs",
+      "minVersionInclusive": "18.1.4",
+      "name": "npm_ngx-bootstrap_18.1.4",
+      "maxVersionInclusive": "18.1.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-bootstrap",
+      "type": "nodejs",
+      "minVersionInclusive": "19.0.3",
+      "name": "npm_ngx-bootstrap_19.0.3",
+      "maxVersionInclusive": "19.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-bootstrap",
+      "type": "nodejs",
+      "minVersionInclusive": "19.0.4",
+      "name": "npm_ngx-bootstrap_19.0.4",
+      "maxVersionInclusive": "19.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-bootstrap",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.3",
+      "name": "npm_ngx-bootstrap_20.0.3",
+      "maxVersionInclusive": "20.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-bootstrap",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.4",
+      "name": "npm_ngx-bootstrap_20.0.4",
+      "maxVersionInclusive": "20.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-bootstrap",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.5",
+      "name": "npm_ngx-bootstrap_20.0.5",
+      "maxVersionInclusive": "20.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-bootstrap",
+      "type": "nodejs",
+      "minVersionInclusive": "20.0.6",
+      "name": "npm_ngx-bootstrap_20.0.6",
+      "maxVersionInclusive": "20.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-color",
+      "type": "nodejs",
+      "minVersionInclusive": "10.0.1",
+      "name": "npm_ngx-color_10.0.1",
+      "maxVersionInclusive": "10.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-toastr",
+      "type": "nodejs",
+      "minVersionInclusive": "19.0.1",
+      "name": "npm_ngx-toastr_19.0.1",
+      "maxVersionInclusive": "19.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-ws",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.5",
+      "name": "npm_ngx-ws_1.1.5",
+      "maxVersionInclusive": "1.1.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ngx-ws",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.6",
+      "name": "npm_ngx-ws_1.1.6",
+      "maxVersionInclusive": "1.1.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "oradm-to-gql",
+      "type": "nodejs",
+      "minVersionInclusive": "35.0.14",
+      "name": "npm_oradm-to-gql_35.0.14",
+      "maxVersionInclusive": "35.0.14",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "oradm-to-gql",
+      "type": "nodejs",
+      "minVersionInclusive": "35.0.15",
+      "name": "npm_oradm-to-gql_35.0.15",
+      "maxVersionInclusive": "35.0.15",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "oradm-to-sqlz",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.2",
+      "name": "npm_oradm-to-sqlz_1.1.2",
+      "maxVersionInclusive": "1.1.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "oradm-to-sqlz",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.3",
+      "name": "npm_oradm-to-sqlz_1.1.3",
+      "maxVersionInclusive": "1.1.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "oradm-to-sqlz",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.4",
+      "name": "npm_oradm-to-sqlz_1.1.4",
+      "maxVersionInclusive": "1.1.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "oradm-to-sqlz",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.5",
+      "name": "npm_oradm-to-sqlz_1.1.5",
+      "maxVersionInclusive": "1.1.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ove-auto-annotate",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.10",
+      "name": "npm_ove-auto-annotate_0.0.10",
+      "maxVersionInclusive": "0.0.10",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ove-auto-annotate",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.9",
+      "name": "npm_ove-auto-annotate_0.0.9",
+      "maxVersionInclusive": "0.0.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "pm2-gelf-json",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.4",
+      "name": "npm_pm2-gelf-json_1.0.4",
+      "maxVersionInclusive": "1.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "pm2-gelf-json",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.5",
+      "name": "npm_pm2-gelf-json_1.0.5",
+      "maxVersionInclusive": "1.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "printjs-rpk",
+      "type": "nodejs",
+      "minVersionInclusive": "1.6.1",
+      "name": "npm_printjs-rpk_1.6.1",
+      "maxVersionInclusive": "1.6.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-complaint-image",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.32",
+      "name": "npm_react-complaint-image_0.0.32",
+      "maxVersionInclusive": "0.0.32",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-complaint-image",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.33",
+      "name": "npm_react-complaint-image_0.0.33",
+      "maxVersionInclusive": "0.0.33",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-complaint-image",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.34",
+      "name": "npm_react-complaint-image_0.0.34",
+      "maxVersionInclusive": "0.0.34",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-form-conditionals",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.18",
+      "name": "npm_react-jsonschema-form-conditionals_0.3.18",
+      "maxVersionInclusive": "0.3.18",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-form-conditionals",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.19",
+      "name": "npm_react-jsonschema-form-conditionals_0.3.19",
+      "maxVersionInclusive": "0.3.19",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-form-conditionals",
+      "type": "nodejs",
+      "minVersionInclusive": "0.3.20",
+      "name": "npm_react-jsonschema-form-conditionals_0.3.20",
+      "maxVersionInclusive": "0.3.20",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-form-extras",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.1",
+      "name": "npm_react-jsonschema-form-extras_1.0.1",
+      "maxVersionInclusive": "1.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-form-extras",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.2",
+      "name": "npm_react-jsonschema-form-extras_1.0.2",
+      "maxVersionInclusive": "1.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-form-extras",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.3",
+      "name": "npm_react-jsonschema-form-extras_1.0.3",
+      "maxVersionInclusive": "1.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-rxnt-extras",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.6",
+      "name": "npm_react-jsonschema-rxnt-extras_0.4.6",
+      "maxVersionInclusive": "0.4.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-rxnt-extras",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.7",
+      "name": "npm_react-jsonschema-rxnt-extras_0.4.7",
+      "maxVersionInclusive": "0.4.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-rxnt-extras",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.8",
+      "name": "npm_react-jsonschema-rxnt-extras_0.4.8",
+      "maxVersionInclusive": "0.4.8",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "react-jsonschema-rxnt-extras",
+      "type": "nodejs",
+      "minVersionInclusive": "0.4.9",
+      "name": "npm_react-jsonschema-rxnt-extras_0.4.9",
+      "maxVersionInclusive": "0.4.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "remark-preset-lint-crowdstrike",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.1",
+      "name": "npm_remark-preset-lint-crowdstrike_4.0.1",
+      "maxVersionInclusive": "4.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "remark-preset-lint-crowdstrike",
+      "type": "nodejs",
+      "minVersionInclusive": "4.0.2",
+      "name": "npm_remark-preset-lint-crowdstrike_4.0.2",
+      "maxVersionInclusive": "4.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-authentication",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.3",
+      "name": "npm_rxnt-authentication_0.0.3",
+      "maxVersionInclusive": "0.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-authentication",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.4",
+      "name": "npm_rxnt-authentication_0.0.4",
+      "maxVersionInclusive": "0.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-authentication",
+      "type": "nodejs",
+      "minVersionInclusive": "0.0.5",
+      "name": "npm_rxnt-authentication_0.0.5",
+      "maxVersionInclusive": "0.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-healthchecks-nestjs",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.2",
+      "name": "npm_rxnt-healthchecks-nestjs_1.0.2",
+      "maxVersionInclusive": "1.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-healthchecks-nestjs",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.3",
+      "name": "npm_rxnt-healthchecks-nestjs_1.0.3",
+      "maxVersionInclusive": "1.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-healthchecks-nestjs",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.4",
+      "name": "npm_rxnt-healthchecks-nestjs_1.0.4",
+      "maxVersionInclusive": "1.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-kue",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.4",
+      "name": "npm_rxnt-kue_1.0.4",
+      "maxVersionInclusive": "1.0.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-kue",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.5",
+      "name": "npm_rxnt-kue_1.0.5",
+      "maxVersionInclusive": "1.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "rxnt-kue",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.6",
+      "name": "npm_rxnt-kue_1.0.6",
+      "maxVersionInclusive": "1.0.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "swc-plugin-component-annotate",
+      "type": "nodejs",
+      "minVersionInclusive": "1.9.1",
+      "name": "npm_swc-plugin-component-annotate_1.9.1",
+      "maxVersionInclusive": "1.9.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "tbssnch",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.2",
+      "name": "npm_tbssnch_1.0.2",
+      "maxVersionInclusive": "1.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "teselagen-interval-tree",
+      "type": "nodejs",
+      "minVersionInclusive": "1.1.2",
+      "name": "npm_teselagen-interval-tree_1.1.2",
+      "maxVersionInclusive": "1.1.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "tg-client-query-builder",
+      "type": "nodejs",
+      "minVersionInclusive": "2.14.4",
+      "name": "npm_tg-client-query-builder_2.14.4",
+      "maxVersionInclusive": "2.14.4",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "tg-client-query-builder",
+      "type": "nodejs",
+      "minVersionInclusive": "2.14.5",
+      "name": "npm_tg-client-query-builder_2.14.5",
+      "maxVersionInclusive": "2.14.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "tg-redbird",
+      "type": "nodejs",
+      "minVersionInclusive": "1.3.1",
+      "name": "npm_tg-redbird_1.3.1",
+      "maxVersionInclusive": "1.3.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "tg-redbird",
+      "type": "nodejs",
+      "minVersionInclusive": "1.3.2",
+      "name": "npm_tg-redbird_1.3.2",
+      "maxVersionInclusive": "1.3.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "tg-seq-gen",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.10",
+      "name": "npm_tg-seq-gen_1.0.10",
+      "maxVersionInclusive": "1.0.10",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "tg-seq-gen",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.9",
+      "name": "npm_tg-seq-gen_1.0.9",
+      "maxVersionInclusive": "1.0.9",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "thangved-react-grid",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.3",
+      "name": "npm_thangved-react-grid_1.0.3",
+      "maxVersionInclusive": "1.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ts-gaussian",
+      "type": "nodejs",
+      "minVersionInclusive": "3.0.5",
+      "name": "npm_ts-gaussian_3.0.5",
+      "maxVersionInclusive": "3.0.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ts-imports",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.1",
+      "name": "npm_ts-imports_1.0.1",
+      "maxVersionInclusive": "1.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ts-imports",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.2",
+      "name": "npm_ts-imports_1.0.2",
+      "maxVersionInclusive": "1.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "tvi-cli",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.5",
+      "name": "npm_tvi-cli_0.1.5",
+      "maxVersionInclusive": "0.1.5",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ve-bamreader",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.6",
+      "name": "npm_ve-bamreader_0.2.6",
+      "maxVersionInclusive": "0.2.6",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ve-bamreader",
+      "type": "nodejs",
+      "minVersionInclusive": "0.2.7",
+      "name": "npm_ve-bamreader_0.2.7",
+      "maxVersionInclusive": "0.2.7",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ve-editor",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.1",
+      "name": "npm_ve-editor_1.0.1",
+      "maxVersionInclusive": "1.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "ve-editor",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.2",
+      "name": "npm_ve-editor_1.0.2",
+      "maxVersionInclusive": "1.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "verror-extra",
+      "type": "nodejs",
+      "minVersionInclusive": "6.0.1",
+      "name": "npm_verror-extra_6.0.1",
+      "maxVersionInclusive": "6.0.1",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "voip-callkit",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.2",
+      "name": "npm_voip-callkit_1.0.2",
+      "maxVersionInclusive": "1.0.2",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "voip-callkit",
+      "type": "nodejs",
+      "minVersionInclusive": "1.0.3",
+      "name": "npm_voip-callkit_1.0.3",
+      "maxVersionInclusive": "1.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "wdio-web-reporter",
+      "type": "nodejs",
+      "minVersionInclusive": "0.1.3",
+      "name": "npm_wdio-web-reporter_0.1.3",
+      "maxVersionInclusive": "0.1.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "yargs-help-output",
+      "type": "nodejs",
+      "minVersionInclusive": "5.0.3",
+      "name": "npm_yargs-help-output_5.0.3",
+      "maxVersionInclusive": "5.0.3",
+      "md5": ""
+    },
+    {
+      "_id": "",
+      "package": "yoo-styles",
+      "type": "nodejs",
+      "minVersionInclusive": "6.0.326",
+      "name": "npm_yoo-styles_6.0.326",
+      "maxVersionInclusive": "6.0.326",
+      "md5": ""
+    }
+  ]
+}
