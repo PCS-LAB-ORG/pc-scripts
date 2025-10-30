@@ -19,6 +19,9 @@ API_LIMIT = 50
 REQUEST_TIMEOUT = 30  # Timeout in seconds for each API request
 API_DELAY = 0.3       # Delay between API calls to avoid rate-limiting
 
+
+file_path = os.path.join(os.path.expanduser("~"), ".prismacloud", "credentials.json")
+
 # ==============================================================================
 # 📝 --- LOGGING CONFIGURATION (REVISED FOR CLEAN OUTPUT) ---
 # ==============================================================================
@@ -181,7 +184,7 @@ if __name__ == "__main__":
 
     try:
         script_logger.info(" [🔐] Authenticating and creating API session...")
-        session_managers = session_loader.load_config()
+        session_managers = session_loader.load_config(file_path=file_path)
         cspm_session = session_managers[0].create_cspm_session()
         script_logger.info("    -> Session created successfully.")
     except Exception as e:
